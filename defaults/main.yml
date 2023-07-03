@@ -9,7 +9,8 @@ vim_packages: []
 #
 # Directory for Pathogen addons
 #
-pathogen_dir: /usr/share/vim/addons
+####pathogen_dir: /usr/share/vim/addons
+pathogen_dir: ~/.vim/pack/addons
 #
 # Default colorscheme
 #
